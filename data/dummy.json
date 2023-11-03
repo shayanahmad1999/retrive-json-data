@@ -1,0 +1,75 @@
+{
+    "Users": 
+    [
+        {
+            "_id": "653790b810786294edf13c2d",
+            "name": "shayan",
+            "email": "shayan@gmail.com",
+            "createdAt": "2023-10-24T09:39:04.681Z",
+            "updatedAt": "2023-10-26T06:26:41.850Z"
+          },
+          {
+            "_id": "653794c7d7e3db3884440ee6",
+            "name": "kaleem",
+            "email": "kaleem@gmail.com",
+            "createdAt": "2023-10-24T09:56:23.586Z",
+            "updatedAt": "2023-11-02T11:21:39.100Z"
+          },
+          {
+            "_id": "653796283c23c3b6a77a5750",
+            "name": "qasim",
+            "email": "qasim@gmail.com",
+            "createdAt": "2023-10-24T10:02:16.672Z",
+            "updatedAt": "2023-10-24T10:02:16.672Z"
+          },
+          {
+            "_id": "653a26322a8665fc2e590f21",
+            "name": "adnan",
+            "email": "adnan@gmail.com",
+            "createdAt": "2023-10-26T08:41:22.391Z",
+            "updatedAt": "2023-10-26T08:41:22.391Z"
+          },
+          {
+            "_id": "653f89ddd5006720fbb43704",
+            "name": "Desiree Melendez",
+            "email": "kehabeh@mailinator.com",
+            "createdAt": "2023-10-30T10:47:57.771Z",
+            "updatedAt": "2023-10-30T10:47:57.771Z"
+          },
+          {
+            "_id": "653f8b11d5006720fbb43707",
+            "name": "Ila Battle",
+            "email": "qorab@mailinator.com",
+            "createdAt": "2023-10-30T10:53:06.003Z",
+            "updatedAt": "2023-10-30T10:53:06.003Z"
+          },
+          {
+            "_id": "653f8bd1d5006720fbb43712",
+            "name": "Admin",
+            "email": "admin@gmail.com",
+            "createdAt": "2023-10-30T10:56:17.888Z",
+            "updatedAt": "2023-10-30T10:56:17.888Z"
+          },
+          {
+            "_id": "6541ec46a142eaa2e784efaa",
+            "name": "Moses Dickerson",
+            "email": "vexiho@mailinator.com",
+            "createdAt": "2023-11-01T06:12:22.861Z",
+            "updatedAt": "2023-11-01T06:12:22.861Z"
+          },
+          {
+            "_id": "65449687ad85372978d5891c",
+            "name": "Danielle Roman",
+            "email": "mecax@mailinator.com",
+            "createdAt": "2023-11-03T06:43:19.413Z",
+            "updatedAt": "2023-11-03T06:43:19.413Z"
+          },
+          {
+            "_id": "654496adad85372978d5891e",
+            "name": "Tate Andrews",
+            "email": "bihulep@mailinator.com",
+            "createdAt": "2023-11-03T06:43:57.366Z",
+            "updatedAt": "2023-11-03T06:43:57.366Z"
+          }
+    ]
+}
